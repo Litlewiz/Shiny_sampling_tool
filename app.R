@@ -713,4 +713,5 @@ p et la normalité "),
   
 }
 
+
 shinyApp(ui, server)
